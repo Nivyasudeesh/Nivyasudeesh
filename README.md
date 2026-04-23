@@ -5,7 +5,9 @@
 <img src = "https://github.com/user-attachments/assets/f265ee6c-01f6-4781-a16c-267cf08111b6" width = 200px height = 600px >
 
 
-![My Stats](https://vercel.app)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nivyasudeesh&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Nivyasudeesh&theme=radical)
 <!--
 **Nivyasudeesh/Nivyasudeesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
