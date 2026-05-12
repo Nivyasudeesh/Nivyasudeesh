@@ -5,9 +5,9 @@
 <img src = "https://github.com/user-attachments/assets/f265ee6c-01f6-4781-a16c-267cf08111b6" width = 200px height = 600px >
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nivyasudeesh&show_icons=true&theme=radical)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nivyasudeesh&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nivyasudeesh&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nivyasudeesh&layout=compact&theme=radical) -->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nivyasudeesh&theme=radical)
 <!--
